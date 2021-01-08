@@ -6,7 +6,8 @@
   CollinC3,
   syntherik
 
-**Decription:**
+**Description:**
+
   A fun dropbox like application, with signin, a chat section, and torrent swarming between nodes. There is user creation
   and user authentication. A user can upload, download, and chat with other users. The app can only be used locally at this time.
   
